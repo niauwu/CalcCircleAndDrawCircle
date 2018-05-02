@@ -1,0 +1,10 @@
+C:\Users\user\Documents\GitHub\CalcCircleAndDrawCircle\CalcCircleAndDrawCircle\bin\Debug\CalcCircleAndDrawCircle.exe.config
+C:\Users\user\Documents\GitHub\CalcCircleAndDrawCircle\CalcCircleAndDrawCircle\bin\Debug\CalcCircleAndDrawCircle.exe
+C:\Users\user\Documents\GitHub\CalcCircleAndDrawCircle\CalcCircleAndDrawCircle\bin\Debug\CalcCircleAndDrawCircle.pdb
+C:\Users\user\Documents\GitHub\CalcCircleAndDrawCircle\CalcCircleAndDrawCircle\obj\Debug\CalcCircleAndDrawCircle.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\GitHub\CalcCircleAndDrawCircle\CalcCircleAndDrawCircle\obj\Debug\CalcCircleAndDrawCircle.Form1.resources
+C:\Users\user\Documents\GitHub\CalcCircleAndDrawCircle\CalcCircleAndDrawCircle\obj\Debug\CalcCircleAndDrawCircle.Properties.Resources.resources
+C:\Users\user\Documents\GitHub\CalcCircleAndDrawCircle\CalcCircleAndDrawCircle\obj\Debug\CalcCircleAndDrawCircle.csproj.GenerateResource.cache
+C:\Users\user\Documents\GitHub\CalcCircleAndDrawCircle\CalcCircleAndDrawCircle\obj\Debug\CalcCircleAndDrawCircle.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\CalcCircleAndDrawCircle\CalcCircleAndDrawCircle\obj\Debug\CalcCircleAndDrawCircle.exe
+C:\Users\user\Documents\GitHub\CalcCircleAndDrawCircle\CalcCircleAndDrawCircle\obj\Debug\CalcCircleAndDrawCircle.pdb
