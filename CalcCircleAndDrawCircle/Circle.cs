@@ -11,6 +11,7 @@ namespace CalcCircleAndDrawCircle
     {
         public decimal Radius, Diameter, Circumference, Area;
 
+        /*已知半徑，求直徑、圓周長、面積*/
         public void setRadius(decimal radius)
         {
             this.Radius = radius;
@@ -19,6 +20,7 @@ namespace CalcCircleAndDrawCircle
             this.Area = PI() * this.Radius * this.Radius;
         }
 
+        /*已知直徑，求半徑、圓周長、面積*/
         public void setDiameter(decimal diameter)
         {
             this.Diameter = diameter;
@@ -27,6 +29,7 @@ namespace CalcCircleAndDrawCircle
             this.Area = PI() * this.Radius * this.Radius;
         }
 
+        /*已知圓周長，求半徑、直徑、面積*/
         public void setCircumference(decimal circumfereence)
         {
             this.Circumference = circumfereence;
@@ -35,6 +38,7 @@ namespace CalcCircleAndDrawCircle
             this.Area = PI() * this.Radius * this.Radius;
         }
 
+        /*已知面積，求半徑、直徑、圓周長*/
         public void setArea(decimal area)
         {
             this.Area = area;
