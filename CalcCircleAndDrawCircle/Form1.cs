@@ -36,8 +36,10 @@ namespace CalcCircleAndDrawCircle
             radiusTextBox.Text = "200";
             circle1.setRadius(Convert.ToDecimal(radiusTextBox.Text));
             updateTextBox(radiusTextBox);
-            
-          //  drawCircle();
+            //文字游標移到最後面
+            radiusTextBox.Select(radiusTextBox.Text.Length, 0);
+
+            //  drawCircle();
         }
 
         /* 點擊 drawCirleButton 時，畫圓 */
