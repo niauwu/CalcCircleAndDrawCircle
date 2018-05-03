@@ -1,6 +1,8 @@
 # CalcCircleAndDrawCircle
 計算圓的半徑、直徑、圓周長、面積，然後畫圓 calc circle radius diameter circumference area then draw circle
 
+![image](https://github.com/niauwu/CalcCircleAndDrawCircle/blob/master/UI.png)
+
         /*已知半徑，求直徑、圓周長、面積*/
         public void setRadius(decimal radius)
         {
